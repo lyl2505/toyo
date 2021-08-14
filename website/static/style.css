@@ -1,3 +1,38 @@
+ul {
+    list-style: none;
+}
+
+header {
+    padding: 1%;
+    overflow: hidden;
+    background: #f2e5d4;
+}
+#logo {
+    width: 30%;
+    float: left;
+    margin: none;
+    padding: none;
+}
+
 #nav-menu {
+    margin: none;
+    height: 100%;
+    width: 40%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: right;
 }   
+#nav-menu ul {
+    text-align: center;
+    font-size: 20pt;
+}
+#nav-menu li, #nav-menu span {
+    padding: 0em 1em;
+    display: inline-block;
+}
+
+#nav-menu a {
+    display:inline-block;
+    line-height: 30px;
+    color: black;
+    text-decoration: none;
+}
