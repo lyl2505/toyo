@@ -1,0 +1,90 @@
+Soup and Salads
+Miso; 1.95; soy bean soup with seaweed, green onion, and seaweed; True
+Green Salad; 2.95; spring mix of romaine lettuce, carrots, with creamy dressing; True
+Seaweed Salad; 4.95; seaweed with sesame seeds; True
+Sunomono; 4.95; seaweed cucumber salad with ponzhu sauce; True
+Snow Crab Sunomono; 4.95; snow crab, seaweed, and cucumber salad with ponzhu sauce; false
+Tako Sunomono; octopus, seaweed, and cucumber salad with ponzhu sauce; false
+Ebi Sunomono; shrimp, seaweed, and cucumber salad with ponzhu sauce; false
+Toyo Seafood Salad; 15.95; salmon, tuna, hamachi, shiromaguro, tako, ebi, unagi, sesame, furikake, ponzhu, siracha; false
+Combo Fish Salad; 19.95; salmon, hamachi, seaweed salad, soybean, tuna, tomato, cucumber, spring mix, avo; false
+
+Appetizers; 
+Gyoza: pork and chicken potstickers; false
+Ika Fry: deep fried calamari rings; false
+Kaki Fry: deepd fried oyster: false
+Ika Shioyaki; grilled calamari; false
+Soft Shelled Crab; deep fried soft shelled crab with ponzhu sauce on the side; false
+Yakitori; chicken and onion on skewers with teriyaki sauce; false
+Tempura: deep fried shrimp, broccoli, yam, squash, ; false
+Vegetable Tempura: deep fried broccoli
+Hamachi Kama: yellowtail collar; 
+
+Tofu and Vegetables
+Edamame; boiled shelled japanese soybeans
+Garlic Edamame; edamame sauteed with Garlic
+Hiyayoko; tofu wih green onion and bonito in sesame oil and soy sauce;
+Agedashi Tofu; deep fried tofu with bonito in tempura sauce; 
+
+Sashimi Appetizers
+Salmon Sashimi; 7 slices of raw salmon
+Tuna Sashimi; 7 slices of raw tuna
+Hamachi Sashimi; 7 slices of raw hamachi;
+Combonation Sashimi: 12 pieces of salmon, tuna, and hamachi;
+Tuna Poki; chopped tuna with soy sauce, siracha, and sesame oil with white and green onion;
+Bonito Tataki; medium rare bonito with house sauce; 
+White Tuna Tataki; medium rare white tuna with house sauce;
+Wasabi Sashimi; fresh wasabi mixed with cucumber, salmon, tuna, and hamachi;
+
+Noodles
+Chicken Udon; 9.95; chicken udon soup; false
+Vegetable Udon; 7.95; vegetable udon soup; true
+Tempura Udon; 11.95; udon noodle with tempura; false
+Beef Udon; 10.95; beef noodle soup; false
+Nabeyaki Udon; 12.95; seafood noodle soup; false
+Yaki Udon; 8.95; stir fry udon with chicken, onion, and spinach; false
+Yaki Soba; 8.95; stir fry soba with chicken, onion, and spinach; false
+
+Vegetable Rolls
+Futo Maki; 11.95; spinach, carrots, radish, tamago, avo, cu; 8; true
+Kappa Maki; 3.95; cu; 6; true
+Oshinko Maki; 3.95; picked radish; 6; true
+Vegetable Roll; 4.95; avo, cu; 6; true
+Spinach Roll; 4.95; spinach; 6; true
+Yam Roll; 4.95; deep fried yam; 6; true
+
+
+Nigiri Sushi
+Two pieces of sliced protein over rice.
+1.50
+Udama; quail egg
+3.50
+Inari; Sweet tofu skin
+Tamago: Sweet egg omlet
+4.50
+Sake; Salmon
+Maguro; tuna
+Hamachi; yellowtail
+shiromaguro; white tuna
+Unagi; fresh water eel
+Kani; Crab meat
+Saba; marinated mackerel
+Ika; squid
+Ebi; cooked shrimp
+Katsuo: bonito
+4.95
+Tako; octopus
+Aji; spanish makerel
+5.95
+Hotategai: scallops
+Ikura: salmon roe
+Seasonal 
+Amaebi; raw sweet shrimp
+Uni; sea urchin
+Toro; fatty tuna
+
+Temaki (Hand Roll)
+Tom Hand Roll; 6.95; crab, avo, tempura, unagi; false
+Jerry Hand Roll; 6.95; cu, crab, temp, spicy scallops; false;
+California Hand Roll; 6.95; crab, avo; false
+Spicy Salmon Hand Roll; 6.95; spicy salmon, rice; 

@@ -1,0 +1,23 @@
+Dinner 
+
+Dinner Entree
+Served with miso soup, green salad, and rice.
+Chicken Teriyaki; 15.95; Chicken with teriyaki sauce; false
+Beef Teriyaki; 17.95; Beef with teriyaki sauce; false
+Salmon Teriyaki; 18.95; Salmon with teriyaki sauce; false
+Tempura; 15.95; Deep fried shrimp and vegetables; false
+Chicken Katsu; Deep fried chicken cutlet; false
+Tonkatsu: Deep fried pork cutlet; false
+
+Dinner Combination
+Choice of two items. Served with miso soup, green salad, and rice.
+Chicken Teriyaki, Beef Teriyaki, Salmon Teriyaki, Tempura, Chicken Katsu, Tonkatsu, Mackerel, Short Ribs, Salmon Sashimi, Tuna Sashimi, Hamachi Sashimi, California Roll; 17.95; 
+
+Sashimi Dinner
+12 slices of one, two, or all choices of fish. Served with miso soup, green salad, and rice.
+Salmon, Tuna, Hamachi; 22.95
+
+Sashimi Dinner Special
+Special Combo Sashimi; 22.95; salmon, tuna, hamachi, and shiromaguro; false
+Chrashi: 26.95; seaweed salad, kani, spicy tuna, sushi rice, tuna, salmon, hamachi
+

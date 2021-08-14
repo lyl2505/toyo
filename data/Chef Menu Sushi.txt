@@ -1,0 +1,73 @@
+Chef Menu Sushi
+911 Roll; 12.95; unagi, siracha; unagi, spicy tuna; tempura, spicy tuna; 8; None
+Sleeping Tiger Roll; 12.95; masago, unagi, green onion; salmon; spicy tuna, avo; 8; None
+Jason and Camille Special; 12.95; mayo, unagi, siracha, garlic; salmon; spicy scallops, avo; 8; baked
+Fuji Mountain Roll; 9.95; mayo, unagi, crunches; None; avo, tuna, tempura; 8
+Spiderman Roll; 13.95; mayo, unagi; tuna; spicy tuna, soft shell crab; 8; None
+?Best Friends Roll; 12.95; unagi; salmon, hamachi, tuna, avo; spicy tuna, crab; 8; None
+Spicy Pearl Roll; 12.95; unagi; crunches; salmon, hamachi; avo, tempura, spicy scallops; 8;
+Happiness Roll; 12.95; unagi; scallops; tempura, crab, avo; 8; 
+Sexy Beach; 11.95; unagi, mayo, siracha; tempura, avo, spicy tuna, crab; 8; soy
+?Ghost Special; 13.95; unagi, ponzhu; white tuna; crab, spicy scallops, soft shell crab; 8; 
+Beautiful Sakura; 12.95; unagi; tuna, hamachi; spicy scallops, spicy tuna, avo; 8; 
+America Pride; 12.95; unagi; avo, ebi, tuna; crab, cucumber, hamachi; 8; 
+Thanksgiving Roll; 12.95; unagi, crab; hamachi; tempura, spicy tuna; 8; 
+Concord Roll; 12.95; None; spicy scallops; Spicy hamachi, spicy tuna; 8; 
+Beijing Olympic Special; 12.95; mayo, siracha, unagi; tuna; spicy scallops, crab; 8
+BMW Roll; 8.95; unagi; None; crab, avo, cheese; 8; soy
+Katie's Roll; 12.95; mayo, siracha, unagi, crab, crunch; avo; spicy tuna, spicy scallops; 8; 
+President's special; 12.95; unagi; tuna; Spicy crab, avo; 8;
+Children Special; 7.95; teriyaki; None; Chicken teriyaki; 6; ramune
+Our Hope Roll; 12.95; unagi; salmon, tuna; Spicy scallops, spicy crab; 8; 
+Monster's Eyes; 13.95; unagi, mayo, tobiko; scallops; spicy tuna; 8; seared
+Hummer Roll; 13.95; mayo, unagi, crunch; avo; soft shell crab, tempura; 8;
+Love Never Changes; 12.95; unagi; tuna, mango; spicy salmon, tempura; 8; 
+Toyo Roll; 12.95; mayo, unagi, crunch; shiromaguro; spicy salmon, avo; 8;
+Green Monster; 12.95; seaweed salad; avo; spicy tuna; 8;
+Queen Roll; 12.95; sesame oil, ponzhu, unagi, furikake; scallops; spicy tuna, crab; 8; 
+Walnut Creek Roll ; 12.95; unagi, crunch; avo, ebi; tempura, avo; 8;
+New Mexico Rainbow; 12.95; unagi, crunch; tuna, salmon; hamachi; spicy tuna, cucumber; 8; 
+Kung-Fu,a; 10.95; mayo, unagi; avo; spicy tuna, crab; 8; 
+Double Salmon Roll; 12.95; unagi, mayo; salmon; Spicy salmon; crab, tempura; 8;
+Jessica's Special; 11.95; unagi, mayo; salmon; avo, tempura, crab; 8; 
+Lora's Favor; 8.95; unagi, furikake; None; unagi, crab; 8; 
+Toyota Special; 8.95; unagi, mayo, siracha, seseame oil, ponzhu; None; shiromaguro; 8; deep fried;
+Santa Barbara Beach Special; 13.95; mayo, siracha, unagi; tuna; avo, tempura, crab inside; 8; 
+Contra Costa Fire Deptartment; 9.95; ponzhu, unagi, tobiko; jalapeno; cheese, spicy tuna; 8; fried; 
+Barry Roll; 10.95; unagi, ponzhu, garlic; shiromaguro; spicy tuna, avo; 8;
+Angel's Roll; 10.95; siracha, unagi, mayo, ponzhu, sesesame oil; cheese, crab, tempura; 8; fried; 
+Lion King Special; 12.95; sirachi, unagi, mayo, ponzhu; sesame oil, garlic; salmon; crab, avo; 8; baked
+I Scream Roll; 12.95; unagi, mayo, crunches; hamachi, salmon, tuna; lobster, tempura; 8;
+Vegas Roll; 12.95; unagi, siracha; shiromaguro; tempura, avo, spicy crab; 8; 
+Grace Roll; 12.95; tobiko, scallions, unagi, mayo, siracha, seseame oil, ponzhu; tuna; spicy tuna, avo; 8; 
+Mr. Handsome Jack; 12.95; unagi; salmon, avo; salmon, avo, lobster; 8; 
+Quartet Roll; 12.95; spicy mayo, unagi, crunch; tuna, tempura, avo; 8; 
+Cherry Blossom; 12.95; None; Tuna; salmon, avo; 8;
+Orange Blossom: 12.95; None; Salmon; salmon, avo; 8;
+
+Heat roll; 7.95; mayo, crunches; None; spicy tuna, jalapeno; 8; 
+Fire Ball; 9.50; siracha, mayo, sesame, unagi, ponzhu, onion; None; spicy tuna, cheese, avo; 8; fried
+Titto's special; 10.95; siracha, mayo, sesame, unagi, ponzhu, onion; None; tempura, spicy tuna, crab, avo; 8; fried
+Maxi Roll; 12.95; tobiko, mayo, unagi; salmon; tempura, salmon, crab; 8; 
+Crazy horse roll; 12.95; unagi; avo, salmon; spicy tuna, crab, avo; 8; 
+Spider roll; 13.95; tobiko, unagi; None; soft-shell crab, avo, crab; 8;
+Rainbow roll; 12.95; None; tuna, salmon, hamachi; crab, avo; 8; 
+Parker roll; 12.95; mayo, unagi; hamachi, salmon; spicy tuna, avo; 8; 
+Christmas roll; 12.95; None; tuna, avo; tempura, cucumber; 8;
+Sponge Bob roll; 12.95; None; hamachi; spicy scallops, avo; 8; 
+Jenny's roll; 12.95; unagi; salmon; avo, crab, unagi; 8; 
+Mike roll; 12.95; crunches, unagi, crunch; unagi, hamachi; tempura, avo; 8; 
+Sarah roll; 9.95; None; None; garlic, crab, tempura; 8;
+Four season roll; 13.95; crab, unagi; salmon; spicy scallops, spicy tuna, avo; 8; 
+Commmando roll; 12.95; unagi, seseame seeds; salmon; unagi, spicy tuna, avo; 8;
+Samurai roll; 9.95; tobiko, mayo; None; spicy tuna, avo, tempura; 8;
+Princess's roll; 9.95; None; None; spicy salmon, cheese, avo: 8; soy, fried
+Larry roll; 12.95; unagi, sesame seeds; salmon; tempura, avo, crab; 8; 
+Goofy roll; 12.95; siracha; tuna; crab, avo; 8;
+Volcano roll; 12.95; shiromaguro; spicy tuna, spicy scallops, cucumber; 8; 
+Yugi roll; 13.95; siracha, mayo, sesame oil; scallops; crab, avo; 8; baked
+
+49ner Roll; 12.95; lemon; salmon; crab, avo; 8; 
+Double Hamachi; 12.95; 8; unagi; hamachi; lobster, spicy hamachi, tempura; 8
+G&G Roll; 13.95; 8; unagi, crunches; unagi, avo; lobster, salmon; 8; 
+Reno Special Roll; 12.95; 8; unagi, mayo, crunchies; salmon, hamachi, tuna; tempura, spicy tuna, avo; 8;
