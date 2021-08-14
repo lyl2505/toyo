@@ -1,19 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}">
+        
+    </head>
     <title>Toyo Sushi</title>
 <div class="header">
     <header>
         <!-- Logo -->
         <div id="logo">
-            <img src="../..data/logo.png">
+            <img src="{{url_for('static', filename='logo.png')}}"/>
         </div>
-
-        <nav>
-            <ul>
-                <li><a href="/menu">Menu</a></li>
-                <li><a href="/about">About Us</a></li>
-            </ul>
-        </nav>
+        
+        <div id="nav-menu">
+            <nav>
+                <ul>
+                    <li><a href="/menu">Menu</a></li>
+                    <li><a href="/about">About Us</a></li>
+                </ul>
+            </nav>
+        </div>
+        
     </header>
 </div>
 <body>
