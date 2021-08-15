@@ -6,8 +6,8 @@
         
     </head>
     <title>Toyo Sushi</title>
-<div class="header">
-    <header>
+<body>
+    <div id="header">
         <!-- Logo -->
         <div id="logo">
             <img src="{{url_for('static', filename='logo.png')}}"/>
@@ -16,15 +16,21 @@
         <div id="nav-menu">
             <nav>
                 <ul>
-                    <li><a href="/menu">Menu</a></li>
+                    <div id="menu-drop">
+                        <li><a id="menu" href="/menu">Menu</a></li>
+                        <div id="menu-content">
+                            <a href="/menu/lunch">Lunch</a>
+                            <a href="/menu/dinner">Dinner</a>
+                            <a href="/menu/special">Chef's Special  </a>
+                        </div>
+                    </div>
                     <li><a href="/about">About Us</a></li>
                 </ul>
             </nav>
         </div>
-        
-    </header>
-</div>
-<body>
-    Hello world
+    </div>
+    <div id="image">
+        <img src="{{url_for('static', filename='sushi1.jpeg')}}"/>
+    </div>
 </body>
 </html>
